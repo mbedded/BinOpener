@@ -17,5 +17,5 @@ Assuming you file is called `bin.exe`.
 - Open run (`CTRL + R`)
 - Type `bin`
 - Press `RETURN`
-- YOur bin opened
+- Your bin opened
 
